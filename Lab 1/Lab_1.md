@@ -1,16 +1,3 @@
-**Microsoft 365 Copilot**
-
-**Prompt Engineering Lab Workbook**
-
-- Exercise 1 · Weak vs. Briefed Prompts
-
-- Exercise 2 · Persona, Audience, Structured Output, Multi-Step
-
-- Exercise 3 --- Prompt Engineering across the Microsoft Copilot Apps:
-  Grounding & the Surface Rule
-
-**Contents**
-
 # Exercise 1 --- Weak vs. Briefed Prompts: The Prompting Framework in Microsoft 365 Copilot Chat
 
 *Duration -- 60 minutes*
