@@ -1,4 +1,4 @@
-# Exercise 1 --- Weak vs. Briefed Prompts: The Prompting Framework in Microsoft 365 Copilot Chat
+# Exercise 1 -Weak vs. Briefed Prompts: The Prompting Framework in Microsoft 365 Copilot Chat
 
 *Duration -- 60 minutes*
 
