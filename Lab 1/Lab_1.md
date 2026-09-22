@@ -70,15 +70,15 @@ Specifically, you will be able to:
 
 1. Log in to https://onedrive.live.com/login with your lab credentials.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image1.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image1.png)
 
 1. Enter your password.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image2.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image2.png)
 
 1. Upload the following documents in the OneDrive:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image3.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image3.png)
 
 
 ## Step 1 --- Catch Up on a Project After Time Away
@@ -90,19 +90,19 @@ Specifically, you will be able to:
 
 1. Navigate to +++https://copilot.microsoft.com/+++ In the left navigation pane, select Chat.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image4.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image4.png)
 
 1. Paste the prompt exactly as written and review the output:
 
     `What is happening with my Zava Retail project?`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image5.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image5.png)
 
     >[!Note] Copilot may ask which project you mean or guess wrong; the result is usually broad and undated; it likely pulls from only one source (often just email) and misses meetings and chats.
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image6.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image6.png)
 
 1. Now run the briefed version, replacing the bracketed part with your own project name:
 
@@ -123,27 +123,27 @@ Specifically, you will be able to:
     ```                       
 
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image7.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image7.png)
 
 1. When you type \"/\", Copilot opens a picker. Start typing the project, file, person, or meeting name and select it from the list --- this is more reliable than typing the name freehand.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image8.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image8.png)
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image9.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image9.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image10.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image10.png)
 
 1. Compare the two results by using the prompt. Paste the following:
 
     `Is it clearly about the right project? Can you tell what\'s new vs. old? Are decisions and owners named? Is it short enough to actually read? Can you verify it (are sources listed)?`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image11.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image11.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image12.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image12.png)
 
     >[!Knowledge] You should now have a tight, dated, sourced summary of your project. If the briefed result is still weak, the usual cause is a vague \"/\" reference --- re-pick the project from the slash menu and run it again.
 
@@ -160,11 +160,11 @@ Specifically, you will be able to:
 
     `Summarise my meetings.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image13.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image13.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image14.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image14.png)
 
 1. Now run the briefed version, replacing the meeting series name. Paste the following prompt:
 
@@ -183,22 +183,22 @@ Specifically, you will be able to:
     say so rather than guessing.          
     ```                                
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image15.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image15.png)
 
 1. Review the output and compare with the output in the above step:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image16.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image16.png)
 
 1. Refine with a follow-up. Paste the following prompt:
 
     `Draft a 4-line email to the group summarising the decisions we made this month.`
 
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image17.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image17.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image18.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image18.png)
 
 
 ## Step 3 --- Find a Specific Concern Someone Raised
@@ -212,11 +212,11 @@ Specifically, you will be able to:
 
     `Did anyone have concerns?`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image19.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image19.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image20.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image20.png)
 
 1. Now run the briefed version, replacing the person and topic. Paste the following prompt:
 
@@ -236,11 +236,11 @@ Specifically, you will be able to:
     something.
     ```
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image21.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image21.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image22.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image22.png)
 
 1. Compare the two results and answer the questions: Did it search the right person? On the right topic? Both email and chat covered? Exact words, not a paraphrase? Can you act on it (date and link present)? Honest about misses?
 
@@ -248,11 +248,11 @@ Specifically, you will be able to:
 
     `Draft a short, friendly reply to Jordan Lee acknowledging the concern and proposing a call.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image23.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image23.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image24.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image24.png)
 
 
 ## Step 4 --- Bonus: Cross-App Drafting in One Prompt
@@ -277,11 +277,11 @@ Once you\'re comfortable with the three scenarios above, try this advanced brief
     Flag anything in the brief that seems unclear or incomplete.          
     ```
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image25.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image25.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image26.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image26.png)
 
 
 ## Exercise Summary
@@ -355,11 +355,11 @@ Specifically, you will be able to:
 
 1. Log in to https://copilot.microsoft.com/ with your lab credentials.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image27.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image27.png)
 
 1. Enter your password.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image28.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image28.png)
 
 1. You will be redirected to the Copilot chat home page.
 
@@ -368,21 +368,21 @@ Specifically, you will be able to:
     `Write three risks for a data migration project.`
 
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image29.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image29.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image30.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image30.png)
 
 1. Now paste the following prompt and click Send:
 
     `Now answer again, but act as an experienced IT project manager who has delivered many data migrations. Give the three most common risks based on what actually goes wrong in practice.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image31.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image31.png)
 
 1. Compare the two answers in your thread:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image32.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image32.png)
 
     ---
     What to notice: The persona version is more specific, practical, and professional. The persona raised the quality by telling Copilot what expertise to draw on --- and because both answers sit in the same chat, the difference is easy to see.
@@ -413,21 +413,21 @@ Specifically, you will be able to:
     Keep the facts unchanged, avoid jargon, and keep it under 60 words.   
     ```
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image33.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image33.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image34.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image34.png)
 
 1. Then, in the same chat, ask for a different audience:
 
     `Now rewrite the same paragraph for the technical engineering team who will do the work. Keep the technical detail.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image35.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image35.png)
 
 1. Review the output and compare both the outputs:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image36.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image36.png)
 
     ---
     What to notice: Same facts, two very different results. Naming the audience changed the vocabulary, tone, and level of detail.
@@ -463,11 +463,11 @@ Specifically, you will be able to:
     >[!Note] Paste a long email thread (or any long discussion) into the chat. The reference email thread file is given in the lab files.
 
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image37.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image37.png)
 
 1. Check that the output follows your headings precisely.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image38.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image38.png)
 
 
 ### Task 2: Force a table
@@ -481,7 +481,7 @@ Specifically, you will be able to:
 
     >[!Note] Upload the Zava Retail forecast vs actual doc after pasting the prompt.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image39.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image39.png)
 
 1. Review the output and note how you get a ready-to-use table.
 
@@ -490,7 +490,7 @@ Specifically, you will be able to:
 
     ---
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image40.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image40.png)
 
 
 ## Step 4 --- Multi-Step: Build It Up in One Conversation
@@ -509,11 +509,11 @@ Specifically, you will be able to:
     >[!Note] Upload the Zava Retail -- Data migration overview document from the lab files provided.
 
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image41.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image41.png)
 
 1. The first draft will be about 80% right --- that\'s expected:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image42.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image42.png)
 
 
 ### Task 2 --- Refine one part
@@ -522,11 +522,11 @@ Specifically, you will be able to:
 
     `Rework the Risks slide. Cut it to 3 bullets, plain English, no jargon.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image43.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image43.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image44.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image44.png)
 
 
 ### Task 3 --- Adjust tone
@@ -535,11 +535,11 @@ Specifically, you will be able to:
 
     `Rewrite the closing slide in a more confident, action-oriented tone.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image45.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image45.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image46.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image46.png)
 
 
 ### Task 4 --- Polish
@@ -548,14 +548,14 @@ Specifically, you will be able to:
 
     `Now suggest a stronger, punchier title for slide 1, and give me three options.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image47.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image47.png)
 
     ---
     What to notice: Each step built on the last because the whole conversation stays in context. You never tried to get it perfect in one prompt --- you steered it there.
 
     ---
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image48.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image48.png)
 
     >[!Tip] The fastest improvements are one-word follow-ups: \"Warmer.\" \"Shorter.\" \"Simpler.\" \"More formal.\" Just type them as their own message.
     >
@@ -575,11 +575,11 @@ Persona + Audience (one prompt):
 
     `Act as an experienced project manager. Draft a one-page project brief for a non-technical steering committee.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image49.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image49.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image50.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image50.png)
 
     Structured output (next prompt):
 
@@ -587,11 +587,11 @@ Persona + Audience (one prompt):
 
     `Use these sections: Goal, Approach, Risks, Milestones, Asks. Plain English, no marketing tone.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image51.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image51.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image52.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image52.png)
 
     Multi-step (separate prompts, one at a time):
 
@@ -599,31 +599,31 @@ Persona + Audience (one prompt):
 
     `Make the Risks section a 3-bullet list.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image53.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image53.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image54.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image54.png)
 
 1. Paste the following prompt in the Copilot Chat box:
 
     `Rewrite the Goal as one confident sentence.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image55.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image55.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image56.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image56.png)
 
 1. Paste the following prompt in the Copilot Chat box:
 
     `Now turn the whole thing into a 200-word executive summary, then list any open questions at the end.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image57.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image57.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image58.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image58.png)
 
     ---
     Scroll back through your chat --- you can see all four techniques working together in one thread.
@@ -704,51 +704,51 @@ Specifically, you will be able to:
 
 1. Log in to https://copilot.microsoft.com/ with your lab credentials.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image59.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image59.png)
 
 1. Enter your password.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image28.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image28.png)
 
 1. From the Copilot home page, select Apps. Select Word.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image60.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image60.png)
 
 1. Select Create Blank Document.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image61.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image61.png)
 
 1. Open Copilot --- the icon in the left margin of a blank line.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image62.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image62.png)
 
 1. Select the + icon to upload the file: Discovery notes, provided in the lab files. Paste the following prompt and press Enter:
 
     `Draft a one-page project brief based on /Discovery notes. Sections: Goal, Approach, Risks, Milestones, Asks. Plain English, no marketing tone.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image63.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image63.png)
 
 1. Review the draft:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image64.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image64.png)
 
 1. Practise the iteration habit. Select one paragraph and select Edit with Copilot.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image65.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image65.png)
 
 1. Paste the following prompt in the description box:
 
     `Rewrite this paragraph in a warmer, more confident tone. Keep the facts unchanged.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image66.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image66.png)
 
 1. Review the output and select Done.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image67.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image67.png)
 
 1. Download the brief document.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image68.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image68.png)
 
     ---
     What to notice: Grounding the Source in your own notes gave you a brief about your project, not generic filler --- and the short follow-up prompts adjusted tone in seconds, without you retyping the whole request.
@@ -773,25 +773,25 @@ Specifically, you will be able to:
 
 1. From the Copilot chat home page, open Excel.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image69.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image69.png)
 
 1. Select Create a blank workbook.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image70.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image70.png)
 
 1. Open Copilot from the right corner.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image71.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image71.png)
 
 1. Upload the Forecast vs Actual sheet and paste the following prompt:
 
     `Find the three biggest variances between forecast and actuals in this sheet. Explain each in one sentence and propose a likely driver.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image72.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image72.png)
 
 1. Review the output and select Done.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image73.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image73.png)
 
 
 ### Task 2: Generate a formula
@@ -800,11 +800,11 @@ Specifically, you will be able to:
 
     `Generate the formula to count unique customers who appear in column B but not column F.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image74.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image74.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image75.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image75.png)
 
 
 ### Task 3: Reason through a calculation
@@ -813,11 +813,11 @@ Specifically, you will be able to:
 
     `Work out which region missed target and by how much, using this sheet. Let\'s think step by step, then give the final figure.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image76.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image76.png)
 
 1. Review the output and select Done.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image77.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image77.png)
 
 
 ### Task 4: Get an expert read
@@ -826,11 +826,11 @@ Specifically, you will be able to:
 
     `Act as a financial analyst. Summarise what this data means for next quarter from this sheet, in three bullet points for a non-financial manager.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image78.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image78.png)
 
 1. Review the output and select Done.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image79.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image79.png)
 
 
 ### Task 5: Build the right chart
@@ -839,11 +839,11 @@ Specifically, you will be able to:
 
     `Build a chart showing monthly trend by region for column G. Pick the chart type that best fits this data.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image80.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image80.png)
 
 1. Review the output and select Done.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image81.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image81.png)
 
     ---
     What to notice: The same open table served every prompt in this step. What changed the result each time was the technique --- a direct ask, a step-by-step instruction for the calculation, and a named role for the expert summary.
@@ -862,51 +862,51 @@ Specifically, you will be able to:
 
 1. From the Copilot chat home page, open PowerPoint presentation.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image82.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image82.png)
 
 1. Select +Create with Copilot.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image83.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image83.png)
 
 1. Paste the following prompt. Upload the brief you saved in Step 1 to fill the Source slot.
 
     `Create a 6-slide presentation from /Project brief. Audience is the steering committee. Title slide, 4 content slides covering Goal · Approach · Risks · Asks, and a closing slide with next steps.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image84.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image84.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image85.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image85.png)
 
 1. Sharpen the framing with a role. Paste the following prompt:
 
     `Act as a communications advisor to the board. Rewrite the Risks slide so a busy executive grasps each risk in one line.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image86.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image86.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image87.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image87.png)
 
 1. Simplify a busy slide. Paste the following prompt:
 
     `Redesign this slide to be cleaner and more readable. Reduce the text and use a clearer structure.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image88.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image88.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image89.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image89.png)
 
 1. Tighten it further if needed. Paste the following prompt:
 
     `Make this slide simpler --- cut the bullets to 3, larger font, plain English.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image90.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image90.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image91.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image91.png)
 
     ---
     What to notice: An empty PowerPoint prompt gives you a generic deck. A prompt grounded in your own brief gives you your deck --- with your goal, your risks, and your asks.
@@ -927,31 +927,31 @@ Outlook --- summarize and reply
 
 1. From Copilot Chat open Outlook.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image92.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image92.png)
 
 1. Open Copilot chat.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image93.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image93.png)
 
 1. Upload the email thread document --- this is your Source --- and paste the following prompt:
 
     `Summarise this long thread in 4 bullets. What was decided, what\'s open, who owns what next?`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image94.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image94.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image95.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image95.png)
 
 1. Draft a reply. Paste the following prompt:
 
     `Reply saying I\'ll attend, propose Thursday afternoon as an alternative, and keep the tone warm.`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image96.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image96.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image97.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image97.png)
 
 
 ## Step 5 --- Bonus: Cleaning Messy Data First
@@ -965,21 +965,21 @@ Excel Copilot is not yet ideal for very large or messy datasets. When data is di
 
 1. From Copilot chat, open Excel.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image69.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image69.png)
 
 1. Open Copilot from the right corner.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image71.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image71.png)
 
 1. Upload the file: Messy Data Sample --- this is your Source. Paste it into Copilot Chat along with the following prompt:
 
     `What formatting inconsistencies should I fix before analysing this?`
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image98.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image98.png)
 
 1. Review the output:
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/Lab_1_media/media/image99.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/m365cpltprmptthndepth/refs/heads/main/Lab%201/media/image99.png)
 
 
 ## Exercise Summary
